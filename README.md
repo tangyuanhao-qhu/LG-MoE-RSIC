@@ -126,8 +126,24 @@ python train.py --dataset AID --batch_size 32 --epochs 500
 | HC-Mamba-B                  | 95.34           | 92.86    | 95.25     |
 | **Ours**                    | **96.81**       | **93.71**| **95.52** |
 
+---
+## 📖 Citation
 
+If you find this work useful in your research, please consider citing:
 
+```bibtex
+@article{TANG2026134039,
+  title = {Hierarchical fusion of local and global visual features with mixture-of-experts for remote sensing image scene classification},
+  journal = {Neurocomputing},
+  pages = {134039},
+  year = {2026},
+  issn = {0925-2312},
+  doi = {https://doi.org/10.1016/j.neucom.2026.134039},
+  url = {https://www.sciencedirect.com/science/article/pii/S0925231226014372},
+  author = {Yuanhao Tang and Xuechao Zou and Zhengpei Hu and Junliang Xing and Chengkun Zhang and Jianqiang Huang},
+  keywords = {Remote sensing images, Scene classification, Local-global fusion, Mixture-of-experts}
+}
+```
 
 
 
