@@ -1,19 +1,17 @@
 # Hierarchical Fusion of Local and Global Visual Features with Mixture-of-Experts for Remote Sensing Image Scene Classification
-<p align="center">
-  <img src="docs/logo1.png" alt="AFM-Net Logo" width="600"/>
-</p>
-
 
 <p align="center">
 
   <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
   <img src="https://img.shields.io/badge/Python-3.8%2B-green" alt="Python Version">
   <img src="https://img.shields.io/badge/PyTorch-1.12%2B-orange" alt="PyTorch Version">
-  <!-- <a href="https://doi.org/10.48550/arXiv.2510.27155">
-    <img src="https://img.shields.io/badge/arXiv-2510.27155-b31b1b.svg" alt="arXiv">
-  </a> -->
+
   <a href="https://huggingface.co/Jamtang/classification">
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-yellow" alt="Hugging Face">
+  </a>
+
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231226014372">
+    <img src="https://img.shields.io/badge/Paper-Neurocomputing-red" alt="Paper">
   </a>
 
 </p>
