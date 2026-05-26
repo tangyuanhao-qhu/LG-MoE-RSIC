@@ -10,10 +10,9 @@
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-yellow" alt="Hugging Face">
   </a>
 
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231226014372">
+  <a href="https://www.sciencedirect.com/science/article/pii/S0925231226014372">
     <img src="https://img.shields.io/badge/Paper-Neurocomputing-red" alt="Paper">
   </a>
-
 </p>
 
 ##  🔍 Introduction 
@@ -131,15 +130,15 @@ If you find this work useful in your research, please consider citing:
 
 ```bibtex
 @article{TANG2026134039,
-  title = {Hierarchical fusion of local and global visual features with mixture-of-experts for remote sensing image scene classification},
-  journal = {Neurocomputing},
-  pages = {134039},
-  year = {2026},
-  issn = {0925-2312},
-  doi = {https://doi.org/10.1016/j.neucom.2026.134039},
-  url = {https://www.sciencedirect.com/science/article/pii/S0925231226014372},
-  author = {Yuanhao Tang and Xuechao Zou and Zhengpei Hu and Junliang Xing and Chengkun Zhang and Jianqiang Huang},
-  keywords = {Remote sensing images, Scene classification, Local-global fusion, Mixture-of-experts}
+title = {Hierarchical fusion of local and global visual features with mixture-of-experts for remote sensing image scene classification},
+journal = {Neurocomputing},
+volume = {695},
+pages = {134039},
+year = {2026},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2026.134039},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231226014372},
+author = {Yuanhao Tang and Xuechao Zou and Zhengpei Hu and Junliang Xing and Chengkun Zhang and Jianqiang Huang},
 }
 ```
 
